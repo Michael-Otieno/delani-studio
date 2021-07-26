@@ -1,0 +1,14 @@
+/*font-family: 'Open Sans', sans-serif;*/
+
+body{
+    font-family:  'Open Sans', sans-serif;
+}
+
+#page-1{
+    background: url('../assets/h_img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 51rem;
+    width: 100%;
+  
+}
