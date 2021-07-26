@@ -203,3 +203,18 @@ button:hover{
    font-size: 32px;
    text-align: center; 
 }
+
+
+
+#contacts{
+    background-image: url('../assets/c_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 2rem; 
+   
+}
+
