@@ -228,3 +228,26 @@ a{
 
 }
    
+
+@media  screen and (max-width: 768px) {
+    #contacts{
+        text-align: center;
+    }
+  
+    #name{
+        width: 300px;
+       margin-left: 20px;
+    }
+    #email{
+        width: 300px;
+        margin-top: 10px;
+       
+    }
+    #textarea{
+         width: 400px;
+    }
+    .services{
+        line-height: 1;
+    }
+   
+}
