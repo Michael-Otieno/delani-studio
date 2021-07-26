@@ -12,3 +12,14 @@ body{
     width: 100%;
   
 }
+
+.page-3{
+    background-image: url('../assets/s_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 24rem;
+    width: 100%;
+    color: white;
+    text-align: center;
+    line-height: 2rem; 
+}
