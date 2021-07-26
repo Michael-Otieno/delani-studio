@@ -23,3 +23,19 @@ body{
     text-align: center;
     line-height: 2rem; 
 }
+
+.para-1{
+    display: none;
+}
+.para-2{
+    display: none;
+}
+.para-3{
+    display: none;
+}
+
+
+.portfolio{
+    text-align: center;
+    font-weight: 900;
+}
